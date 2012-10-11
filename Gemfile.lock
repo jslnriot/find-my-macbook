@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nokogiri (1.5.5)
+    ruby-progressbar (1.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nokogiri
+  ruby-progressbar
